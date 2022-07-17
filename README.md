@@ -43,3 +43,7 @@ dizi sıralandığında 18 sayısı tam ortada kalacağından dolayı average ca
 2- [3, 7| , 5, 8, 2, 9, 4, 15, 6]
 3- [3, 5, 7| , 8, 2, 9, 4, 15, 6]
 4- [3, 5, 7, 8| , 2, 9, 4, 15, 6]
+
+
+
+https://app.patika.dev/efekaan
